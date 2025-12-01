@@ -46,7 +46,7 @@ LLMs for natural language interaction, clarification, intent communication, and 
 ## 4. Real-World Deployment & System Challenges for LLM-based Navigation
 Safety, robustness, hallucination mitigation, multi-modal fusion, and real-world deployment.
 ### 📄 Representative Papers
-[1]Shah, D., Osinski, B., Ichter, B., & Levine, S. (2022). *LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action.* [[arXiv]](https://arxiv.org/abs/2501.09024) <br>
+[1] Shah, D., Osinski, B., Ichter, B., & Levine, S. (2022). *LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action.* [[arXiv]](https://arxiv.org/abs/2501.09024) <br>
 [2]  <br>
 [3]  <br>
 [4]  <br>
