@@ -26,9 +26,7 @@ Using LLMs for semantic reasoning, high-level rules, etiquette reasoning, and hu
 ### 📄 Representative Papers
 [1] Payandeh, A., Song, D., Nazeri, M., Liang, J., Mukherjee, P., Raj, A. H., ... & Xiao, X. (2024). *Social-LLaVA: Enhancing robot navigation through human-language reasoning in social spaces.* [[arXiv]](https://arxiv.org/abs/2501.09024) <br>
 [2] Kong, Y., Song, D., Liang, J., Manocha, D., Yao, Z., & Xiao, X. (2024). *AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning.* [[arXiv]](https://arxiv.org/abs/2503.07557) <br>
-
-[2]   <br>
-[3]   <br>
+[3]  <br>
 [4]   <br>
 
 
