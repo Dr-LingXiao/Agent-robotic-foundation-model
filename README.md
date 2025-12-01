@@ -4,7 +4,7 @@
 
 | Name | Role | Affiliation |
 |------|------|-------------|
-| **Ling Xiao** | Principal Investigator / Project Lead | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
+| **<a href="https://dr-lingxiao.github.io/" target="_blank" rel="noopener">Ling Xiao</a>** | Principal Investigator / Project Lead | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
 | **Xinyu Zhang** | D1 / Multimodal Navigation | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
 | **Tomohito Kawabata** | B4 / Multimodal Navigation | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
 | **Zishuo Wang** | Research Student / Multimodal Navigation | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
