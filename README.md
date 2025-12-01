@@ -35,7 +35,7 @@ Using LLMs for semantic reasoning, high-level rules, etiquette reasoning, and hu
 ## 3. LLM-enhanced Human–Robot Interaction (HRI)
 LLMs for natural language interaction, clarification, intent communication, and explainable actions.
 ### 📄 Representative Papers
-[1]   <br>
+[1] Han, L., Min, H., Hwangbo, G., Choi, J., & Seo, P. H. (2025). *DialNav: Multi-turn Dialog Navigation with a Remote Guide.* [[arXiv]](https://arxiv.org/abs/2509.12894)  <br>
 [2]   <br>
 [3]   <br>
 [4]   <br>
