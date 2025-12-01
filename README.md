@@ -21,7 +21,7 @@ LLMs for understanding humans, behaviors, intentions, and social context.
 
 ---
 
-## 2. LLM-guided Socially Compliant Planning
+## 2. LLM-guided Socially Compliant Navigation
 Using LLMs for semantic reasoning, high-level rules, etiquette reasoning, and human-aware path planning.
 ### 📄 Representative Papers
 [1] Payandeh, A., Song, D., Nazeri, M., Liang, J., Mukherjee, P., Raj, A. H., ... & Xiao, X. (2024). *Social-LLaVA: Enhancing robot navigation through human-language reasoning in social spaces.* [[arXiv]](https://arxiv.org/abs/2501.09024) <br>
