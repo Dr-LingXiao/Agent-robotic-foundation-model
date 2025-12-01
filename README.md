@@ -5,10 +5,10 @@
 | Name | Role | Affiliation |
 |------|------|-------------|
 | **Ling Xiao** | Principal Investigator / Project Lead | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
-| **Xinyu Zhang** | D1 / Multimodal Navigation | Hokkaido University |
-| **Tomohito Kawabata** | B4 / Multimodal Navigation | Hokkaido University |
-| **Zishuo Wang** | Research Student / Multimodal Navigation | Hokkaido University |
-| **Zhuonan Liu** | Research Student / Multimodal Navigation | Hokkaido University |
+| **Xinyu Zhang** | D1 / Multimodal Navigation | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
+| **Tomohito Kawabata** | B4 / Multimodal Navigation | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
+| **Zishuo Wang** | Research Student / Multimodal Navigation | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
+| **Zhuonan Liu** | Research Student / Multimodal Navigation | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
 
 
 ## 1. LLM-based Social Perception & Human Intention Understanding
