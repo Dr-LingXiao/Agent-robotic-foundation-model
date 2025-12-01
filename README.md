@@ -24,7 +24,7 @@ LLMs for understanding humans, behaviors, intentions, and social context.
 ## 2. LLM-guided Socially Compliant Planning
 Using LLMs for semantic reasoning, high-level rules, etiquette reasoning, and human-aware path planning.
 ### 📄 Representative Papers
-[1]   <br>
+[1] Munje, M. J., Tang, C., Liu, S., Hu, Z., Zhu, Y., Cui, J., ... & Stone, P. (2025). *Socialnav-SUB: Benchmarking VLMs for scene understanding in social robot navigation.* [[arXiv]](https://arxiv.org/abs/2509.08757) <br>
 [2]   <br>
 [3]   <br>
 [4]   <br>
