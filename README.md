@@ -4,7 +4,7 @@
 
 | Name | Role | Affiliation |
 |------|------|-------------|
-| **Ling Xiao** | Principal Investigator / Project Lead | Hokkaido University |
+| **Ling Xiao** | Principal Investigator / Project Lead | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
 | **Xinyu Zhang** | D1 / Multimodal Navigation | Hokkaido University |
 | **Tomohito Kawabata** | B4 / Multimodal Navigation | Hokkaido University |
 | **Zishuo Wang** | Research Student / Multimodal Navigation | Hokkaido University |
