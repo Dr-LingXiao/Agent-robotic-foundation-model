@@ -15,7 +15,7 @@
 LLMs for understanding humans, behaviors, intentions, and social context.
 
 ### 📄 Representative Papers
-- *(To be added)*  
+[1] Payandeh, A., Song, D., Nazeri, M., Liang, J., Mukherjee, P., Raj, A. H., ... & Xiao, X. (2024). Social-llava: Enhancing robot navigation through human-language reasoning in social spaces. arXiv preprint arXiv:2501.09024. (https://arxiv.org/abs/2501.09024)
 -  
 -  
 
