@@ -15,7 +15,11 @@
 ### 📄 Representative Papers
 [1]  Chen, Y., Zhang, I. G., Zhang, Y., Xu, H., Zhi, P., Li, Q., & Huang, S. (2025, May). *Synergai: Perception alignment for human-robot collaboration.* [[ICRA]](https://ieeexplore.ieee.org/abstract/document/11128658/) <br>
 [2]  Xu, W., Zhou, T., Zhang, T., Li, J., Chen, P., Pan, J., & Liu, X. (2025). *Exploring Grounding Abilities in Vision-Language Models through Contextual Perception*. [[IEEE Transactions on Cognitive and Developmental Systems]](https://ieeexplore.ieee.org/abstract/document/10985830) <br>
-[3]  <br>
+[3]  Musumeci, E., Brienza, M., Argenziano, F., Drid, A. H., Suriani, V., Nardi, D., & Bloisi, D. D. (2025). *Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning.* [[arXiv]](https://arxiv.org/abs/2506.15828) <br>
+[4] Ling, L., Lin, C. H., Lin, T. Y., Ding, Y., Zeng, Y., Sheng, Y., ... & Li, Z. (2025). *Scenethesis: A language and vision agentic framework for 3d scene generation.* [[arXiv]](https://arxiv.org/abs/2505.02836) <br>
+[5] Zheng, H., Tian, B., Wu, M., Tang, Z., Nahrstedt, K., & Schwing, A. (2025). *Spatio-temporal llm: Reasoning about environments and actions.* [[arXiv]](https://arxiv.org/abs/2507.05258)<br>
+[6] Zhi, H., Chen, P., Li, J., Ma, S., Sun, X., Xiang, T., ... & Gan, C. (2025). *Lscenellm: Enhancing large 3d scene understanding using adaptive visual preferences.* [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhi_LSceneLLM_Enhancing_Large_3D_Scene_Understanding_Using_Adaptive_Visual_Preferences_CVPR_2025_paper.html)<br>
+[7] 
 
 
 ---
