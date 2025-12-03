@@ -63,7 +63,12 @@
 [24] Singamaneni, P. T., Bachiller-Burgos, P., Manso, L. J., Garrell, A., Sanfeliu, A., Spalanzani, A., & Alami, R. (2024). *A survey on socially aware robot navigation: Taxonomy and future challenges.* [[The International Journal of Robotics Research]](https://journals.sagepub.com/doi/full/10.1177/02783649241230562)  <br> 
 [25] Li, J., Hua, C., Ma, H., Park, J., Dax, V., & Kochenderfer, M. J. (2024). *Multi-agent dynamic relational reasoning for social robot navigation.* [[arXiv]](https://arxiv.org/abs/2401.12275)   <br> 
 [26] Karnan, H., Nair, A., Xiao, X., Warnell, G., Pirk, S., Toshev, A., ... & Stone, P. (2022). *Socially compliant navigation dataset (scand): A large-scale dataset of demonstrations for social navigation.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/9799755) <br> 
-[27] Mavrogiannis, C., Baldini, F., Wang, A., Zhao, D., Trautman, P., Steinfeld, A., & Oh, J. (2023). *Core challenges of social robot navigation: A survey.* [[ACM Transactions on Human-Robot Interaction]](https://dl.acm.org/doi/full/10.1145/3583741)
+[27] Mavrogiannis, C., Baldini, F., Wang, A., Zhao, D., Trautman, P., Steinfeld, A., & Oh, J. (2023). *Core challenges of social robot navigation: A survey.* [[ACM Transactions on Human-Robot Interaction]](https://dl.acm.org/doi/full/10.1145/3583741)  <br> 
+[28] Ngo, T. D., & Truong, X. T. (2022). *Socially aware robot navigation framework: Where and how to approach people in dynamic social environments.* [[IEEE Transactions on Automation Science and Engineering]](https://ieeexplore.ieee.org/abstract/document/9775638)  <br> 
+[29] Mavrogiannis, C., Alves-Oliveira, P., Thomason, W., & Knepper, R. A. (2022). *Social momentum: Design and evaluation of a framework for socially competent robot navigation.* [[ACM Transactions on Human-Robot Interaction (THRI)]](https://dl.acm.org/doi/full/10.1145/3495244)  <br> 
+[30] Biswas, A., Wang, A., Silvera, G., Steinfeld, A., & Admoni, H. (2022). *Socnavbench: A grounded simulation testing framework for evaluating social navigation.* [[ACM Transactions on Human-Robot Interaction (THRI)]](https://dl.acm.org/doi/full/10.1145/3476413) <br> 
+[31] Mirsky, R., Xiao, X., Hart, J., & Stone, P. (2021). *Prevention and resolution of conflicts in social navigation–a survey.* [[arXiv]](https://www.cs.utexas.edu/~xiao/papers/social_navigation_survey.pdf) <br> 
+[32] Hurtado, J. V., Londoño, L., & Valada, A. (2021). *From learning to relearning: A framework for diminishing bias in social robot navigation.* [[Frontiers in Robotics and AI]](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.650325/full) <br> 
 
 ---
 
