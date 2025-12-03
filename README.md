@@ -32,6 +32,7 @@
 [17] Imran, A., Beltrame, G., & St-Onge, D. (2025). *GNN-based decentralized perception in multi-robot systems for predicting worker actions.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10982189) <br>
 [18] Zhang, H., Dhafer, A., Hao, Z. D., & Dong, H. (2025). *A Generative System for Robot-to-Human Handovers: from Intent Inference to Spatial Configuration Imagery.* [[arXiv]](https://arxiv.org/abs/2503.03579) <br>
 [19] Wen, D., Qi, L., Peng, K., Yang, K., Teng, F., Luo, A., ... & Stiefelhagen, R. (2025). *Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments.* [[arXiv]](https://arxiv.org/abs/2506.02845) <br>
+[20] Gao, H., Zhang, L., Zhao, Y., Yang, Z., & Cao, J. (2025). *Application of Vision-Language Models to Pedestrian Behavior Prediction and Scene Understanding in Autonomous Driving.* [[RAIIC]](https://ieeexplore.ieee.org/abstract/document/11170191)
 
 ---
 
