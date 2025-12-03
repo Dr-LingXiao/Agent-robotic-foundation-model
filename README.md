@@ -55,5 +55,11 @@
 [4] Ziliotto, F., Campari, T., Serafini, L., & Ballan, L. (2025). *TANGO: training-free embodied AI agents for open-world tasks.* [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Ziliotto_TANGO_Training-free_Embodied_AI_Agents_for_Open-world_Tasks_CVPR_2025_paper.html) <br>
 [5] Liu, X., Li, J., Deng, Y., Chen, R., Zhang, Y., Ma, Y., ... & Feng, C. (2025). *Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI.* [[arXiv]](https://arxiv.org/abs/2511.20620) <br>
 [6] Xue, X., Hu, J., Luo, M., Shichao, X., Chen, J., Xie, Z., ... & Chu, Z. (2025). *OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation.* [[arXiv]](https://arxiv.org/abs/2509.25687) <br>
+[7] Cruz, S., Doctor, K., Funk, C., & Scheirer, W. (2025). *Open issues in open world learning.* [[AI Magazine]](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.70001) <br>
+[8] Busch, F. L., Homberger, T., Ortega-Peimbert, J., Yang, Q., & Andersson, O. (2025, May). One map to find them all: Real-time open-vocabulary mapping for zero-shot multi-object navigation. [[ICRA]](https://ieeexplore.ieee.org/abstract/document/11128393) <br>
+[9] Wang, K., Lu, L., Liu, M., Jiang, J., Li, Z., Zhang, B., ... & Shen, C. (2025). *Odyssey: Open-world quadrupeds exploration and manipulation for long-horizon tasks.* [[arXiv]](https://arxiv.org/abs/2508.08240) <br>
+[10] Gao, J., Liu, R., & Wang, W. (2025). *3d gaussian map with open-set semantic grouping for vision-language navigation.* [[ICCV]](https://openaccess.thecvf.com/content/ICCV2025/html/Gao_3D_Gaussian_Map_with_Open-Set_Semantic_Grouping_for_Vision-Language_Navigation_ICCV_2025_paper.html)  <br>
+[11] Chen, C., Lu, L., Yang, L., Zhang, Y., Chen, Y., Jia, R., & Pan, J. (2025). *Signage-Aware Exploration in Open World using Venue Maps.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10878474) <br>
 
+ 
 ---
