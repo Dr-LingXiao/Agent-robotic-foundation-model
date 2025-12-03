@@ -18,9 +18,20 @@
 [3]  Musumeci, E., Brienza, M., Argenziano, F., Drid, A. H., Suriani, V., Nardi, D., & Bloisi, D. D. (2025). *Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning.* [[arXiv]](https://arxiv.org/abs/2506.15828) <br>
 [4] Ling, L., Lin, C. H., Lin, T. Y., Ding, Y., Zeng, Y., Sheng, Y., ... & Li, Z. (2025). *Scenethesis: A language and vision agentic framework for 3d scene generation.* [[arXiv]](https://arxiv.org/abs/2505.02836) <br>
 [5] Zheng, H., Tian, B., Wu, M., Tang, Z., Nahrstedt, K., & Schwing, A. (2025). *Spatio-temporal llm: Reasoning about environments and actions.* [[arXiv]](https://arxiv.org/abs/2507.05258)<br>
-[6] Zhi, H., Chen, P., Li, J., Ma, S., Sun, X., Xiang, T., ... & Gan, C. (2025). *Lscenellm: Enhancing large 3d scene understanding using adaptive visual preferences.* [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhi_LSceneLLM_Enhancing_Large_3D_Scene_Understanding_Using_Adaptive_Visual_Preferences_CVPR_2025_paper.html)<br>
-[7] Gurunathan, T. S., Raza, M. S., Janakiraman, A. K., Khan, M. A., Pal, B., & Gangopadhyay, A. (2025, May). *Edge LLMs for Real-Time Contextual Understanding with Ground Robots.* [[AAAI-SS]](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35583)
-
+[6] Zhi, H., Chen, P., Li, J., Ma, S., Sun, X., Xiang, T., ... & Gan, C. (2025). *Lscenellm: Enhancing large 3d scene understanding using adaptive visual preferences.* [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhi_LSceneLLM_Enhancing_Large_3D_Scene_Understanding_Using_Adaptive_Visual_Preferences_CVPR_2025_paper.html) <br>
+[7] Gurunathan, T. S., Raza, M. S., Janakiraman, A. K., Khan, M. A., Pal, B., & Gangopadhyay, A. (2025, May). *Edge LLMs for Real-Time Contextual Understanding with Ground Robots.* [[AAAI-SS]](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35583) <br>
+[8] Tong, T., Setchi, R., & Hicks, Y. (2025). *Human intention recognition using context relationships in complex scenes.* [[Expert Systems with Applications]](https://www.sciencedirect.com/science/article/pii/S0957417424030148)  <br>
+[9] Jiang, X., Dindar, S. S., Choudhari, V., Bickel, S., Mehta, A., McKhann, G. M., ... & Mesgarani, N. (2025). *Aad-llm: Neural attention-driven auditory scene understanding.* [[arXiv]](https://arxiv.org/abs/2502.16794)  <br>
+[10] Godbole, M., Gao, X., & Tu, Z. (2025). *DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving.* [[arXiv]](https://arxiv.org/abs/2506.17590)  <br>
+[11] Gao, X., Yang, Y., Du, S., Qi, G. J., & Han, J. (2025). *Jointly Understand Your Command and Intention: Reciprocal Co-Evolution between Scene-Aware 3D Human Motion Synthesis and Analysis.* [[arXiv]](https://arxiv.org/abs/2503.00371) <br>
+[12] Lyu, H., Wang, X., Zhang, N., Ma, S., Zhu, Q., Luo, Y., ... & Ma, X. (2025, April). *Signaling Human Intentions to Service Robots: Understanding the Use of Social Cues during In-Person Conversations.* [[CHI]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2025&q=Scene+Perception+%26+Human+Intention+Understanding+&btnG=)  <br>
+[13] Zhao, J., Hou, R., Tian, Z., Chang, H., & Shan, S. (2025). *HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding.* [[arXiv]](https://arxiv.org/abs/2503.12955)  <br>
+[14] Chen, Z., Luo, X., & Li, D. (2025). *Visrl: Intention-driven visual perception via reinforced reasoning.* [[arXiv]](https://arxiv.org/abs/2503.07523)  <br>
+[15] Sun, Z., Wu, R., Yang, X., Xie, H., Jiang, H., Bi, J., & Zhang, Z. (2025). *Learning Long Short-Term Intention within Human Daily Behaviors.* [[arXiv]](https://arxiv.org/abs/2504.07597)  <br>
+[16] Munir, F., Azam, S., Mihaylova, T., Kyrki, V., & Kucner, T. P. (2025). *Pedestrian vision language model for intentions prediction.* [[IEEE Open Journal of Intelligent Transportation Systems]](https://ieeexplore.ieee.org/abstract/document/10938210/) <br>
+[17] Imran, A., Beltrame, G., & St-Onge, D. (2025). *GNN-based decentralized perception in multi-robot systems for predicting worker actions.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10982189) <br>
+[18] Zhang, H., Dhafer, A., Hao, Z. D., & Dong, H. (2025). *A Generative System for Robot-to-Human Handovers: from Intent Inference to Spatial Configuration Imagery.* [[arXiv]](https://arxiv.org/abs/2503.03579) <br>
+[19] Wen, D., Qi, L., Peng, K., Yang, K., Teng, F., Luo, A., ... & Stiefelhagen, R. (2025). *Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments.* [[arXiv]](https://arxiv.org/abs/2506.02845) <br>
 
 ---
 
@@ -75,6 +86,7 @@
 [14] Qiu, D., You, J., Gong, Z., Qiu, R., Xiong, H., & Liang, J. (2025). *SD-OVON: A Semantics-aware Dataset and Benchmark Generation Pipeline for Open-Vocabulary Object Navigation in Dynamic Scenes.* [[arXiv]](https://arxiv.org/abs/2505.18881)  <br>
 [15] Yin, H., Wei, H., Xu, X., Guo, W., Zhou, J., & Lu, J. (2025). *GC-VLN: Instruction as graph constraints for training-free vision-and-language navigation.* [[arXiv]](https://arxiv.org/abs/2509.10454) <br>
 [16] Han, M., Ma, L., Zhumakhanova, K., Radionova, E., Zhang, J., Chang, X., ... & Laptev, I. (2025). *Roomtour3d: Geometry-aware video-instruction tuning for embodied navigation.* [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Han_RoomTour3D_Geometry-Aware_Video-Instruction_Tuning_for_Embodied_Navigation_CVPR_2025_paper.html) <br>
+[17] Feng, T., Wang, X., Jiang, Y. G., & Zhu, W. (2025). *Embodied ai: From llms to world models.* [[arXiv]](https://arxiv.org/abs/2509.20021) <br>
 
  
 ---
