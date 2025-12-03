@@ -42,6 +42,7 @@
 [2] Lai, Y., Yuan, S., Zhang, B., Kiefer, B., Li, P., Deng, T., & Zell, A. (2025). *Fam-hri: Foundation-model assisted multi-modal human-robot interaction combining gaze and speech.* [[arXiv]](https://arxiv.org/abs/2503.16492)  <br>
 [3] Lai, Y., Yuan, S., Nassar, Y., Fan, M., Weber, T., & Rätsch, M. (2025). *NVP-HRI: zero shot natural voice and posture-based human–robot interaction via large language model.* [[Expert systems with applications]](https://www.sciencedirect.com/science/article/pii/S0957417424032275)  <br>
 [4] Irfan, B., Miniota, J., Thunberg, S., Lagerstedt, E., Kuoppamäki, S., Skantze, G., & Pereira, A. (2025). *Human-robot interaction conversational user enjoyment scale (hri cues).* [[IEEE Transactions on Affective Computing]](https://ieeexplore.ieee.org/abstract/document/11084909)  <br>
+[5] Skantze, G., & Irfan, B. (2025, March). *Applying general turn-taking models to conversational human-robot interaction.* [[HRI]](https://ieeexplore.ieee.org/abstract/document/10973958)
 
 
 ---
@@ -49,9 +50,10 @@
 ## 4. Open-world Navigation
 ### 📄 Representative Papers
 [1] Shah, D., Osinski, B., Ichter, B., & Levine, S. (2022). *LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action.* [[arXiv]](https://arxiv.org/abs/2501.09024) <br>
-[2]  <br>
-[3]  <br>
-[4]  <br>
-
+[2] Xiao, J., Sun, Y., Shao, Y., Gan, B., Liu, R., Wu, Y., ... & Deng, X. (2025, October). *Uav-on: A benchmark for open-world object goal navigation with aerial agents.* [[ACM Multimedia]](https://dl.acm.org/doi/abs/10.1145/3746027.3758251) <br>
+[3] Bar, A., Zhou, G., Tran, D., Darrell, T., & LeCun, Y. (2025). *Navigation world models.* [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Bar_Navigation_World_Models_CVPR_2025_paper.html) <br>
+[4] Ziliotto, F., Campari, T., Serafini, L., & Ballan, L. (2025). *TANGO: training-free embodied AI agents for open-world tasks.* [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Ziliotto_TANGO_Training-free_Embodied_AI_Agents_for_Open-world_Tasks_CVPR_2025_paper.html) <br>
+[5] Liu, X., Li, J., Deng, Y., Chen, R., Zhang, Y., Ma, Y., ... & Feng, C. (2025). *Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI.* [[arXiv]](https://arxiv.org/abs/2511.20620) <br>
+[6] Xue, X., Hu, J., Luo, M., Shichao, X., Chen, J., Xie, Z., ... & Chu, Z. (2025). *OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation.* [[arXiv]](https://arxiv.org/abs/2509.25687) <br>
 
 ---
