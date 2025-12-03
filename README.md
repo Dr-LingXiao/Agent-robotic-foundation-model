@@ -42,8 +42,24 @@
 [3] Munje, M. J., Tang, C., Liu, S., Hu, Z., Zhu, Y., Cui, J., ... & Stone, P. (2025). *Socialnav-SUB: Benchmarking VLMs for scene understanding in social robot navigation.* [[arXiv]](https://arxiv.org/abs/2509.08757) <br>
 [4] Francis, A., Pérez-d’Arpino, C., Li, C., Xia, F., Alahi, A., Alami, R., ... & Martín-Martín, R. (2025). *Principles and guidelines for evaluating social robot navigation algorithms.* [[ACM Transactions on Human-Robot Interaction]](https://dl.acm.org/doi/full/10.1145/3700599) <br>
 [5] Narasimhan, S., Tan, A. H., Choi, D., & Nejat, G. (2025, May). *Olivia-nav: An online lifelong vision language approach for mobile robot social navigation.* [[ICRA]](https://ieeexplore.ieee.org/abstract/document/11128004) <br>
-[6] Zhu, W., Raju, A., Shamsah, A., Wu, A., Hutchinson, S., & Zhao, Y. (2025). *EmoBipedNav: Emotion-aware Social Navigation for Bipedal Robots with Deep Reinforcement Learning.* [[arXiv]](https://arxiv.org/abs/2503.12538)
-
+[6] Zhu, W., Raju, A., Shamsah, A., Wu, A., Hutchinson, S., & Zhao, Y. (2025). *EmoBipedNav: Emotion-aware Social Navigation for Bipedal Robots with Deep Reinforcement Learning.* [[arXiv]](https://arxiv.org/abs/2503.12538) <br>
+[7] Okunevich, I., Lombard, A., Krajnik, T., Ruichek, Y., & Yan, Z. (2025). *Online Context Learning for Socially Compliant Navigation.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10947499) <br>
+[8] Elnoor, M., Weerakoon, K., Seneviratne, G., Liang, J., Rajagopal, V., & Manocha, D. (2025). *Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments.* [[arXiv]](https://arxiv.org/abs/2503.09820) <br>
+[9] Gong, Z., Hu, T., Qiu, R., & Liang, J. (2025, May). *From cognition to precognition: A future-aware framework for social navigation.* [[ICRA]](https://ieeexplore.ieee.org/abstract/document/11127910) <br>
+[10] Mahadevan, V., Zhang, S., & Chandra, R. (2025). *Gamechat: Multi-llm dialogue for safe, agile, and socially optimal multi-agent navigation in constrained environments.* [[arXiv]](https://arxiv.org/abs/2503.12333)  <br>
+[11] Lu, X., Faragasso, A., Wang, Y., Yamashita, A., & Asama, H. (2025). *Group-Aware Robot Navigation in Crowds Using Spatio-Temporal Graph Attention Network With Deep Reinforcement Learning.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10918817) <br>
+[12] Wang, W., Obi, I., & Min, B. C. (2025). *Multi-Agent LLM Actor-Critic Framework for Social Robot Navigation.* [[arXiv]](https://arxiv.org/abs/2503.09758)  <br>
+[13] Pérez, G., Zapata-Cornejo, N., Bustos, P., & Núñez, P. (2025). *Social elastic band with prediction and anticipation: Enhancing real-time path trajectory optimization for socially aware robot navigation.* [[International Journal of Social Robotics]](https://link.springer.com/article/10.1007/s12369-024-01135-z) <br>
+[14] Dong, Y., Wu, F., He, Q., Li, H., Li, M., Cheng, Z., ... & Hauptmann, A. G. (2025). *HA-VLN: A Benchmark for Human-Aware Navigation in Discrete-Continuous Environments with Dynamic Multi-Human Interactions, Real-World Validation, and an Open Leaderboard.* [[arXiv]](https://arxiv.org/abs/2503.14229) <br>
+[15] Weerakoon, K., Elnoor, M., Seneviratne, G., Rajagopal, V., Arul, S. H., Liang, J., ... & Manocha, D. (2025, May). *Behav: Behavioral rule guided autonomy using vlms for robot navigation in outdoor scenes.* [[ICRA]](https://ieeexplore.ieee.org/abstract/document/11127890)  <br>
+[16] Janhonen, J. (2025). *Socialisation approach to AI value acquisition: enabling flexible ethical navigation with built-in receptiveness to social influence.* [[AI and Ethics]](https://link.springer.com/article/10.1007/s43681-023-00372-8)  <br>
+[17] Han, J. R., Thomas, H., Zhang, J., Rhinehart, N., & Barfoot, T. D. (2025). *Dr-mpc: Deep residual model predictive control for real-world social navigation.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10904316)  <br>
+[18] Kathuria, T., Liu, K., Jang, J., Yang, X. J., & Ghaffari, M. (2025). *Learning Implicit Social Navigation Behavior using Deep Inverse Reinforcement Learning.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10947583) <br>
+[19] Zhang, Q., Luo, W., Liu, B., Zhang, Z., Wang, Y., & Liu, J. (2025). *NavG: Risk-Aware Navigation in Crowded Environments Based on Reinforcement Learning with Guidance Points.* [[arXiv]](https://arxiv.org/abs/2503.02111) <br>
+[20] Song, D., Liang, J., Xiao, X., & Manocha, D. (2025). *Vl-tgs: Trajectory generation and selection using vision language models in mapless outdoor environments.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10960724) <br>
+[21] Song, D., Liang, J., Payandeh, A., Raj, A. H., Xiao, X., & Manocha, D. (2024). *Vlm-social-nav: Socially aware robot navigation through scoring using vision-language models.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10777573) <br> 
+[22] Raj, A. H., Hu, Z., Karnan, H., Chandra, R., Payandeh, A., Mao, L., ... & Xiao, X. (2024, May). *Rethinking social robot navigation: Leveraging the best of two worlds.* [[ICRA]](https://ieeexplore.ieee.org/abstract/document/10611710) <br> 
+[23] Mirsky, R., Xiao, X., Hart, J., & Stone, P. (2024). *Conflict avoidance in social navigation—a survey.* [[ACM Transactions on Human-Robot Interaction]](https://dl.acm.org/doi/full/10.1145/3647983)  <br> 
 
 ---
 
