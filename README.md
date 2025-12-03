@@ -60,6 +60,7 @@
 [9] Wang, K., Lu, L., Liu, M., Jiang, J., Li, Z., Zhang, B., ... & Shen, C. (2025). *Odyssey: Open-world quadrupeds exploration and manipulation for long-horizon tasks.* [[arXiv]](https://arxiv.org/abs/2508.08240) <br>
 [10] Gao, J., Liu, R., & Wang, W. (2025). *3d gaussian map with open-set semantic grouping for vision-language navigation.* [[ICCV]](https://openaccess.thecvf.com/content/ICCV2025/html/Gao_3D_Gaussian_Map_with_Open-Set_Semantic_Grouping_for_Vision-Language_Navigation_ICCV_2025_paper.html)  <br>
 [11] Chen, C., Lu, L., Yang, L., Zhang, Y., Chen, Y., Jia, R., & Pan, J. (2025). *Signage-Aware Exploration in Open World using Venue Maps.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10878474) <br>
-
+[12] Jiang, J., Zhu, Y., Wu, Z., & Song, J. (2025). *DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes.* [[arXiv]](https://arxiv.org/abs/2506.01950)  <br>
+[13] Huang, S., Shi, C., Yang, J., Dong, H., Mi, J., Li, K., ... & Wei, X. (2025). *KiteRunner: Language-Driven Cooperative Local-Global Navigation Policy with UAV Mapping in Outdoor Environments.* [[arXiv]](https://arxiv.org/abs/2503.08330)
  
 ---
