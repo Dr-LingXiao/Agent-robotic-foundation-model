@@ -14,7 +14,7 @@
 ## 1. Scene Perception & Human Intention Understanding
 ### 📄 Representative Papers
 [1]  Chen, Y., Zhang, I. G., Zhang, Y., Xu, H., Zhi, P., Li, Q., & Huang, S. (2025, May). *Synergai: Perception alignment for human-robot collaboration.* [[ICRA]](https://ieeexplore.ieee.org/abstract/document/11128658/) <br>
-[2]  Xu, W., Zhou, T., Zhang, T., Li, J., Chen, P., Pan, J., & Liu, X. (2025). *Exploring Grounding Abilities in Vision-Language Models through Contextual Perception*. [[IEEE Transactions on Cognitive and Developmental Systems]] (https://ieeexplore.ieee.org/abstract/document/10985830) <br>
+[2]  Xu, W., Zhou, T., Zhang, T., Li, J., Chen, P., Pan, J., & Liu, X. (2025). *Exploring Grounding Abilities in Vision-Language Models through Contextual Perception*. [[IEEE Transactions on Cognitive and Developmental Systems]](https://ieeexplore.ieee.org/abstract/document/10985830) <br>
 [3]  <br>
 
 
