@@ -61,6 +61,10 @@
 [10] Gao, J., Liu, R., & Wang, W. (2025). *3d gaussian map with open-set semantic grouping for vision-language navigation.* [[ICCV]](https://openaccess.thecvf.com/content/ICCV2025/html/Gao_3D_Gaussian_Map_with_Open-Set_Semantic_Grouping_for_Vision-Language_Navigation_ICCV_2025_paper.html)  <br>
 [11] Chen, C., Lu, L., Yang, L., Zhang, Y., Chen, Y., Jia, R., & Pan, J. (2025). *Signage-Aware Exploration in Open World using Venue Maps.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10878474) <br>
 [12] Jiang, J., Zhu, Y., Wu, Z., & Song, J. (2025). *DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes.* [[arXiv]](https://arxiv.org/abs/2506.01950)  <br>
-[13] Huang, S., Shi, C., Yang, J., Dong, H., Mi, J., Li, K., ... & Wei, X. (2025). *KiteRunner: Language-Driven Cooperative Local-Global Navigation Policy with UAV Mapping in Outdoor Environments.* [[arXiv]](https://arxiv.org/abs/2503.08330)
+[13] Huang, S., Shi, C., Yang, J., Dong, H., Mi, J., Li, K., ... & Wei, X. (2025). *KiteRunner: Language-Driven Cooperative Local-Global Navigation Policy with UAV Mapping in Outdoor Environments.* [[arXiv]](https://arxiv.org/abs/2503.08330) <br>
+[14] Qiu, D., You, J., Gong, Z., Qiu, R., Xiong, H., & Liang, J. (2025). *SD-OVON: A Semantics-aware Dataset and Benchmark Generation Pipeline for Open-Vocabulary Object Navigation in Dynamic Scenes.* [[arXiv]](https://arxiv.org/abs/2505.18881)  <br>
+[15] Yin, H., Wei, H., Xu, X., Guo, W., Zhou, J., & Lu, J. (2025). *GC-VLN: Instruction as graph constraints for training-free vision-and-language navigation.* [[arXiv]](https://arxiv.org/abs/2509.10454) <br>
+[16] Han, M., Ma, L., Zhumakhanova, K., Radionova, E., Zhang, J., Chang, X., ... & Laptev, I. (2025). *Roomtour3d: Geometry-aware video-instruction tuning for embodied navigation.* [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Han_RoomTour3D_Geometry-Aware_Video-Instruction_Tuning_for_Embodied_Navigation_CVPR_2025_paper.html) <br>
+
  
 ---
