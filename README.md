@@ -44,8 +44,14 @@
 [4] Irfan, B., Miniota, J., Thunberg, S., Lagerstedt, E., Kuoppamäki, S., Skantze, G., & Pereira, A. (2025). *Human-robot interaction conversational user enjoyment scale (hri cues).* [[IEEE Transactions on Affective Computing]](https://ieeexplore.ieee.org/abstract/document/11084909)  <br>
 [5] Skantze, G., & Irfan, B. (2025, March). *Applying general turn-taking models to conversational human-robot interaction.* [[HRI]](https://ieeexplore.ieee.org/abstract/document/10973958) <br>
 [6] Koubaa, A., Ammar, A., & Boulila, W. (2025). *Next‐generation human‐robot interaction with ChatGPT and robot operating system.* [[Software: Practice and Experience]](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.3377)  <br>
-[7]
-
+[7] Mende, M., Shneiderman, B., & Boccanfuso, L. (2025). *Commentary: the future of human-robot interactions.* [[Journal of Service Research]](https://journals.sagepub.com/doi/full/10.1177/10946705241296041)  <br>
+[8] Macalupu, V., Miller, E., Martin, L., & Caldwell, G. (2025). *Human–robot interactions and experiences of staff and service robots in aged care.* [[Scientific Reports]](https://www.nature.com/articles/s41598-025-86255-w)   <br>
+[9] Lawrence, S., Jouaiti, M., Hoey, J., Nehaniv, C. L., & Dautenhahn, K. (2025). *The Role of Social Norms in Human–Robot Interaction: A Systematic Review.* [[ACM Transactions on Human-Robot Interaction]](https://dl.acm.org/doi/full/10.1145/3722120)  <br>
+[10] Irfan, B., & Skantze, G. (2025, March). *Between you and me: Ethics of self-disclosure in human-robot interaction.* [[HRI]](https://ieeexplore.ieee.org/abstract/document/10974215)   <br>
+[11] Asuzu, K., Singh, H., & Idrissi, M. (2025). *Human–robot interaction through joint robot planning with large language models.* [[Intelligent Service Robotics]](https://link.springer.com/article/10.1007/s11370-024-00570-1)  <br>
+[12] Ayub, A., De Francesco, Z., Holthaus, P., Nehaniv, C. L., & Dautenhahn, K. (2025). *Continual learning through human-robot interaction: Human perceptions of a continual learning robot in repeated interactions.* [[International Journal of Social Robotics]](https://link.springer.com/article/10.1007/s12369-025-01214-9) <br>
+[13] Roy, L., Croft, E. A., Ramirez, A., & Kulić, D. (2025). *GPT-Driven Gestures: Leveraging Large Language Models to Generate Expressive Robot Motion for Enhanced Human-Robot Interaction.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10909198) <br>
+  
 ---
 
 ## 4. Open-world Navigation
