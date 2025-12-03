@@ -42,8 +42,9 @@
 [2] Lai, Y., Yuan, S., Zhang, B., Kiefer, B., Li, P., Deng, T., & Zell, A. (2025). *Fam-hri: Foundation-model assisted multi-modal human-robot interaction combining gaze and speech.* [[arXiv]](https://arxiv.org/abs/2503.16492)  <br>
 [3] Lai, Y., Yuan, S., Nassar, Y., Fan, M., Weber, T., & Rätsch, M. (2025). *NVP-HRI: zero shot natural voice and posture-based human–robot interaction via large language model.* [[Expert systems with applications]](https://www.sciencedirect.com/science/article/pii/S0957417424032275)  <br>
 [4] Irfan, B., Miniota, J., Thunberg, S., Lagerstedt, E., Kuoppamäki, S., Skantze, G., & Pereira, A. (2025). *Human-robot interaction conversational user enjoyment scale (hri cues).* [[IEEE Transactions on Affective Computing]](https://ieeexplore.ieee.org/abstract/document/11084909)  <br>
-[5] Skantze, G., & Irfan, B. (2025, March). *Applying general turn-taking models to conversational human-robot interaction.* [[HRI]](https://ieeexplore.ieee.org/abstract/document/10973958)
-
+[5] Skantze, G., & Irfan, B. (2025, March). *Applying general turn-taking models to conversational human-robot interaction.* [[HRI]](https://ieeexplore.ieee.org/abstract/document/10973958) <br>
+[6] Koubaa, A., Ammar, A., & Boulila, W. (2025). *Next‐generation human‐robot interaction with ChatGPT and robot operating system.* [[Software: Practice and Experience]](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.3377)  <br>
+[7]
 
 ---
 
