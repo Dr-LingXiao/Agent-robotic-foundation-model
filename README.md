@@ -51,6 +51,9 @@
 [11] Asuzu, K., Singh, H., & Idrissi, M. (2025). *Human–robot interaction through joint robot planning with large language models.* [[Intelligent Service Robotics]](https://link.springer.com/article/10.1007/s11370-024-00570-1)  <br>
 [12] Ayub, A., De Francesco, Z., Holthaus, P., Nehaniv, C. L., & Dautenhahn, K. (2025). *Continual learning through human-robot interaction: Human perceptions of a continual learning robot in repeated interactions.* [[International Journal of Social Robotics]](https://link.springer.com/article/10.1007/s12369-025-01214-9) <br>
 [13] Roy, L., Croft, E. A., Ramirez, A., & Kulić, D. (2025). *GPT-Driven Gestures: Leveraging Large Language Models to Generate Expressive Robot Motion for Enhanced Human-Robot Interaction.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10909198) <br>
+[14] Sasabuchi, K., Wake, N., Kanehira, A., Takamatsu, J., & Ikeuchi, K. (2025). *Agreeing to interact in human-robot interaction using large language models and vision language models.* [[arXiv]](https://arxiv.org/abs/2503.15491)   <br>
+[15] Moorman, N., Zhao, M., Luebbers, M. B., Van Waveren, S., Simmons, R., Admoni, H., ... & Gombolay, M. (2025). *Bi-Directional Mental Model Reconciliation for Human-Robot Interaction with Large Language Models.* [[arXiv]](https://arxiv.org/abs/2503.07547)  <br>
+[16] Lai, Y., Yuan, S., Nassar, Y., Fan, M., Gopal, A., Yorita, A., ... & Rätsch, M. (2025). *NMM-HRI: Natural Multi-modal Human-Robot Interaction with Voice and Deictic Posture via Large Language Model.* [[arXiv]](https://ui.adsabs.harvard.edu/abs/2025arXiv250100785L/abstract)
   
 ---
 
