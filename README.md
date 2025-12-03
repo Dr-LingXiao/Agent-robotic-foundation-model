@@ -19,7 +19,7 @@
 [4] Ling, L., Lin, C. H., Lin, T. Y., Ding, Y., Zeng, Y., Sheng, Y., ... & Li, Z. (2025). *Scenethesis: A language and vision agentic framework for 3d scene generation.* [[arXiv]](https://arxiv.org/abs/2505.02836) <br>
 [5] Zheng, H., Tian, B., Wu, M., Tang, Z., Nahrstedt, K., & Schwing, A. (2025). *Spatio-temporal llm: Reasoning about environments and actions.* [[arXiv]](https://arxiv.org/abs/2507.05258)<br>
 [6] Zhi, H., Chen, P., Li, J., Ma, S., Sun, X., Xiang, T., ... & Gan, C. (2025). *Lscenellm: Enhancing large 3d scene understanding using adaptive visual preferences.* [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhi_LSceneLLM_Enhancing_Large_3D_Scene_Understanding_Using_Adaptive_Visual_Preferences_CVPR_2025_paper.html)<br>
-[7] 
+[7] Gurunathan, T. S., Raza, M. S., Janakiraman, A. K., Khan, M. A., Pal, B., & Gangopadhyay, A. (2025, May). *Edge LLMs for Real-Time Contextual Understanding with Ground Robots.* [[AAAI-SS]](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35583)
 
 
 ---
