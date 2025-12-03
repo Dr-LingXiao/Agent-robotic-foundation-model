@@ -39,9 +39,9 @@
 ## 3. Human–Robot Interaction (HRI)
 ### 📄 Representative Papers
 [1] Han, L., Min, H., Hwangbo, G., Choi, J., & Seo, P. H. (2025). *DialNav: Multi-turn Dialog Navigation with a Remote Guide.* [[arXiv]](https://arxiv.org/abs/2509.12894)  <br>
-[2]   <br>
-[3]   <br>
-[4]   <br>
+[2] Lai, Y., Yuan, S., Zhang, B., Kiefer, B., Li, P., Deng, T., & Zell, A. (2025). *Fam-hri: Foundation-model assisted multi-modal human-robot interaction combining gaze and speech.* [[arXiv]](https://arxiv.org/abs/2503.16492)  <br>
+[3] Lai, Y., Yuan, S., Nassar, Y., Fan, M., Weber, T., & Rätsch, M. (2025). *NVP-HRI: zero shot natural voice and posture-based human–robot interaction via large language model.* [[Expert systems with applications]](https://www.sciencedirect.com/science/article/pii/S0957417424032275)  <br>
+[4] Irfan, B., Miniota, J., Thunberg, S., Lagerstedt, E., Kuoppamäki, S., Skantze, G., & Pereira, A. (2025). *Human-robot interaction conversational user enjoyment scale (hri cues).* [[IEEE Transactions on Affective Computing]](https://ieeexplore.ieee.org/abstract/document/11084909)  <br>
 
 
 ---
