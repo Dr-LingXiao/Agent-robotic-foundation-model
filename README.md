@@ -29,8 +29,9 @@
 [1] Payandeh, A., Song, D., Nazeri, M., Liang, J., Mukherjee, P., Raj, A. H., ... & Xiao, X. (2024). *Social-LLaVA: Enhancing robot navigation through human-language reasoning in social spaces.* [[arXiv]](https://arxiv.org/abs/2501.09024) <br>
 [2] Kong, Y., Song, D., Liang, J., Manocha, D., Yao, Z., & Xiao, X. (2024). *AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning.* [[arXiv]](https://arxiv.org/abs/2503.07557) <br>
 [3] Munje, M. J., Tang, C., Liu, S., Hu, Z., Zhu, Y., Cui, J., ... & Stone, P. (2025). *Socialnav-SUB: Benchmarking VLMs for scene understanding in social robot navigation.* [[arXiv]](https://arxiv.org/abs/2509.08757) <br>
-[4]   <br>
-[5]   <br>
+[4] Francis, A., Pérez-d’Arpino, C., Li, C., Xia, F., Alahi, A., Alami, R., ... & Martín-Martín, R. (2025). *Principles and guidelines for evaluating social robot navigation algorithms.* [[ACM Transactions on Human-Robot Interaction]](https://dl.acm.org/doi/full/10.1145/3700599) <br>
+[5] Narasimhan, S., Tan, A. H., Choi, D., & Nejat, G. (2025, May). *Olivia-nav: An online lifelong vision language approach for mobile robot social navigation.* [[ICRA]](https://ieeexplore.ieee.org/abstract/document/11128004) <br>
+[6] Zhu, W., Raju, A., Shamsah, A., Wu, A., Hutchinson, S., & Zhao, Y. (2025). *EmoBipedNav: Emotion-aware Social Navigation for Bipedal Robots with Deep Reinforcement Learning.* [[arXiv]](https://arxiv.org/abs/2503.12538)
 
 
 ---
