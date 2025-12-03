@@ -60,6 +60,10 @@
 [21] Song, D., Liang, J., Payandeh, A., Raj, A. H., Xiao, X., & Manocha, D. (2024). *Vlm-social-nav: Socially aware robot navigation through scoring using vision-language models.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/10777573) <br> 
 [22] Raj, A. H., Hu, Z., Karnan, H., Chandra, R., Payandeh, A., Mao, L., ... & Xiao, X. (2024, May). *Rethinking social robot navigation: Leveraging the best of two worlds.* [[ICRA]](https://ieeexplore.ieee.org/abstract/document/10611710) <br> 
 [23] Mirsky, R., Xiao, X., Hart, J., & Stone, P. (2024). *Conflict avoidance in social navigation—a survey.* [[ACM Transactions on Human-Robot Interaction]](https://dl.acm.org/doi/full/10.1145/3647983)  <br> 
+[24] Singamaneni, P. T., Bachiller-Burgos, P., Manso, L. J., Garrell, A., Sanfeliu, A., Spalanzani, A., & Alami, R. (2024). *A survey on socially aware robot navigation: Taxonomy and future challenges.* [[The International Journal of Robotics Research]](https://journals.sagepub.com/doi/full/10.1177/02783649241230562)  <br> 
+[25] Li, J., Hua, C., Ma, H., Park, J., Dax, V., & Kochenderfer, M. J. (2024). *Multi-agent dynamic relational reasoning for social robot navigation.* [[arXiv]](https://arxiv.org/abs/2401.12275)   <br> 
+[26] Karnan, H., Nair, A., Xiao, X., Warnell, G., Pirk, S., Toshev, A., ... & Stone, P. (2022). *Socially compliant navigation dataset (scand): A large-scale dataset of demonstrations for social navigation.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/9799755) <br> 
+[27] Mavrogiannis, C., Baldini, F., Wang, A., Zhao, D., Trautman, P., Steinfeld, A., & Oh, J. (2023). *Core challenges of social robot navigation: A survey.* [[ACM Transactions on Human-Robot Interaction]](https://dl.acm.org/doi/full/10.1145/3583741)
 
 ---
 
