@@ -9,7 +9,7 @@
 | **Tomohito Kawabata** | B4 / Multimodal Navigation | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
 | **Zishuo Wang** | Research Student / Multimodal Navigation | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
 | **Zhuonan Liu** | Research Student / Multimodal Navigation | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener">Hokkaido University</a> |
-
+| **Runji Cai** | Research Student / Multimodal Navigation | <a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noopener"></a> |
 
 ## 1. Scene Perception & Human Intention Understanding
 ### 📄 Representative Papers
