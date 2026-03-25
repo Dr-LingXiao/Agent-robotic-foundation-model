@@ -117,3 +117,9 @@
 
  
 ---
+
+## 5. Multi-choice ambiguity
+### 📄 Representative Papers
+[1] Zhang, M. J. Q., Wang, Z., Hwang, J. D., Dong, Y., Delalleau, O., Choi, Y., Choi, E., Ren, X., & Pyatkin, V. (2025). *Diverging Preferences: When do Annotators Disagree and do Models Know?*[[ICML]](https://icml.cc/virtual/2025/poster/43935) <br>
+[2] Yao, S., Yu, D., Zhao, J., Shafran, I., Griffiths, T. L., Cao, Y., & Narasimhan, K. (2023). *Tree of Thoughts: Deliberate Problem Solving with Large Language Models.* [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/271db9922b8d1f4dd7aaef84ed5ac703-Abstract-Conference.html) <br>
+[3] Gao, B.-B., Xing, C., Xie, C.-W., Wu, J., & Geng, X. (2017). *Deep Label Distribution Learning with Label Ambiguity.* [[IEEE TIP]](https://ieeexplore.ieee.org/document/7890384)<br>
