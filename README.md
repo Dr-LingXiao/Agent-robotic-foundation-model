@@ -128,6 +128,6 @@
 
 ## 6. On-policy Distillation and Reinforcement Learning
 ### 📄 Representative Papers
-[1] Zhao, S., Xie, Z., Liu, M., Huang, J., Pang, G., Chen, F., & Grover, A. (2026). *Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models.* [[arXiv]](arXiv preprint arXiv:2601.18734) <br>
-[2] Hübotter, J., Lübeck, F., Behric, L., Baumann, A., Bagatella, M., Marta, D., ... & Krause, A. (2026). *Reinforcement Learning via Self-Distillation.* [[arXiv]](arXiv preprint arXiv:2601.20802) <br>
-[3] Fu, Y., Chen, T., Chai, J., Wang, X., Tu, S., Yin, G., ... & Zhao, D. (2025). *Srft: A single-stage method with supervised and reinforcement fine-tuning for reasoning.* [[arXiv]](arXiv preprint arXiv:2506.19767) <br>
+[1] Zhao, S., Xie, Z., Liu, M., Huang, J., Pang, G., Chen, F., & Grover, A. (2026). *Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models.* [[arXiv]](https://arxiv.org/abs/2601.18734) <br>
+[2] Hübotter, J., Lübeck, F., Behric, L., Baumann, A., Bagatella, M., Marta, D., ... & Krause, A. (2026). *Reinforcement Learning via Self-Distillation.* [[arXiv]](https://arxiv.org/abs/2601.20802) <br>
+[3] Fu, Y., Chen, T., Chai, J., Wang, X., Tu, S., Yin, G., ... & Zhao, D. (2025). *Srft: A single-stage method with supervised and reinforcement fine-tuning for reasoning.* [[arXiv]](https://arxiv.org/abs/2506.19767) <br>
