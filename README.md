@@ -116,7 +116,6 @@
 [16] Han, M., Ma, L., Zhumakhanova, K., Radionova, E., Zhang, J., Chang, X., ... & Laptev, I. (2025). *Roomtour3d: Geometry-aware video-instruction tuning for embodied navigation.* [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Han_RoomTour3D_Geometry-Aware_Video-Instruction_Tuning_for_Embodied_Navigation_CVPR_2025_paper.html) <br>
 [17] Feng, T., Wang, X., Jiang, Y. G., & Zhu, W. (2025). *Embodied ai: From llms to world models.* [[arXiv]](https://arxiv.org/abs/2509.20021) <br>
 
- 
 ---
 
 ## 5. Multi-choice ambiguity
@@ -124,3 +123,11 @@
 [1] Zhang, M. J. Q., Wang, Z., Hwang, J. D., Dong, Y., Delalleau, O., Choi, Y., Choi, E., Ren, X., & Pyatkin, V. (2025). *Diverging Preferences: When do Annotators Disagree and do Models Know?*[[ICML]](https://icml.cc/virtual/2025/poster/43935) <br>
 [2] Yao, S., Yu, D., Zhao, J., Shafran, I., Griffiths, T. L., Cao, Y., & Narasimhan, K. (2023). *Tree of Thoughts: Deliberate Problem Solving with Large Language Models.* [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/271db9922b8d1f4dd7aaef84ed5ac703-Abstract-Conference.html) <br>
 [3] Gao, B.-B., Xing, C., Xie, C.-W., Wu, J., & Geng, X. (2017). *Deep Label Distribution Learning with Label Ambiguity.* [[IEEE TIP]](https://ieeexplore.ieee.org/document/7890384)<br>
+
+---
+
+## 6. On-policy Distillation and Reinforcement Learning
+### 📄 Representative Papers
+[1] Zhao, S., Xie, Z., Liu, M., Huang, J., Pang, G., Chen, F., & Grover, A. (2026). *Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models.* [[arXiv]](arXiv preprint arXiv:2601.18734) <br>
+[2] Hübotter, J., Lübeck, F., Behric, L., Baumann, A., Bagatella, M., Marta, D., ... & Krause, A. (2026). *Reinforcement Learning via Self-Distillation.* [[arXiv]](arXiv preprint arXiv:2601.20802) <br>
+[3] Fu, Y., Chen, T., Chai, J., Wang, X., Tu, S., Yin, G., ... & Zhao, D. (2025). *Srft: A single-stage method with supervised and reinforcement fine-tuning for reasoning.* [[arXiv]](arXiv preprint arXiv:2506.19767) <br>
