@@ -71,6 +71,7 @@
 [31] Mirsky, R., Xiao, X., Hart, J., & Stone, P. (2021). *Prevention and resolution of conflicts in social navigation–a survey.* [[arXiv]](https://www.cs.utexas.edu/~xiao/papers/social_navigation_survey.pdf) <br> 
 [32] Hurtado, J. V., Londoño, L., & Valada, A. (2021). *From learning to relearning: A framework for diminishing bias in social robot navigation.* [[Frontiers in Robotics and AI]](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.650325/full) <br> 
 [33] Chen, Z., Guo, Y., Chu, Z., Luo, M., Shen, Y., Sun, M., Hu, J., Xie, S., Yang, K., Shi, P., Gu, Z., Liu, L., Han, H., Wu, X., Xu, M., Zhang, Y., & Guo, N. (2026). *SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation.* [[arXiv]](https://arxiv.org/abs/2511.21135) <br>
+[34] Fang, Z., Xiao, A., Hsu, D., & Lee, G. H. (2026). *From Obstacles to Etiquette: Robot Social Navigation with VLM-Informed Path Selection.* [[RAL]](https://ieeexplore.ieee.org/abstract/document/11373887) <br>
 
 ---
 
