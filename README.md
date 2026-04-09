@@ -124,6 +124,7 @@
 [2] Yao, S., Yu, D., Zhao, J., Shafran, I., Griffiths, T. L., Cao, Y., & Narasimhan, K. (2023). *Tree of Thoughts: Deliberate Problem Solving with Large Language Models.* [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/271db9922b8d1f4dd7aaef84ed5ac703-Abstract-Conference.html) <br>
 [3] Gao, B.-B., Xing, C., Xie, C.-W., Wu, J., & Geng, X. (2017). *Deep Label Distribution Learning with Label Ambiguity.* [[IEEE TIP]](https://ieeexplore.ieee.org/document/7890384)<br>
 [4] Gao, G., Chang, J. D., Cardie, C., Brantley, K., & Joachims, T. (2023). *Policy-Gradient Training of Language Models for Ranking.* [[arXiv]](https://arxiv.org/abs/2310.04407)<br>
+[5] Yu, X., Zhang, S., Song, X., Qin, X., & Jiang, S. (2024). *Trajectory Diffusion for ObjectGoal Navigation.* [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/file/c72861451d6fa9dfa64831102b9bb71a-Paper-Conference.pdf)<br>
 
 ---
 
