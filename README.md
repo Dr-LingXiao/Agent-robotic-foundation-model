@@ -145,7 +145,7 @@
 
 ## 7. Model Efficiency and Edge Deployment
 ### 📄 Representative Papers
-[1] Lin, Ji, et al. "Awq: Activation-aware weight quantization for on-device llm compression and acceleration." Proceedings of machine learning and systems 6 (2024): 87-100. [[MLSys](https://proceedings.mlsys.org/paper_files/paper/2024/hash/42a452cbafa9dd64e9ba4aa95cc1ef21-Abstract-Conference.html) <br>
+[1] Lin, Ji, et al. "Awq: Activation-aware weight quantization for on-device llm compression and acceleration." Proceedings of machine learning and systems 6 (2024): 87-100. [[MLSys]](https://proceedings.mlsys.org/paper_files/paper/2024/hash/42a452cbafa9dd64e9ba4aa95cc1ef21-Abstract-Conference.html) <br>
 [2] Men, Xin, et al. "Shortgpt: Layers in large language models are more redundant than you expect." Findings of the Association for Computational Linguistics: ACL 2025. 2025. [[ACL Anthology]](https://aclanthology.org/2025.findings-acl.1035/) <br>
 [3] Vincenti, Jort, et al. "Dynamic vocabulary pruning in early-exit llms." arXiv preprint arXiv:2410.18952 (2024). [[arXiv]](https://arxiv.org/abs/2410.18952) <br>
 [4] Xin, Meng, et al. "Quantization-Aware Distillation for NVFP4 Inference Accuracy Recovery." arXiv preprint arXiv:2601.20088 (2026). [[arXiv]](https://arxiv.org/abs/2601.20088) <br>
