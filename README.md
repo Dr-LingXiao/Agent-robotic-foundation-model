@@ -140,3 +140,14 @@
 [6] Sang, H., Xu, Y., Zhou, Z., He, R., Wang, Z., & Sun, J. (2026). On-policy self-distillation for reasoning compression. [[arXiv]](https://arxiv.org/abs/2603.05433) <br>
 [7] Ma, H., Hu, T., Pu, Z., Liu, B., Ai, X., Liang, Y., & Chen, M. (2024). Coevolving with the other you: Fine-tuning llm with sequential cooperative multi-agent reinforcement learning.[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1c2b1c8f7d317719a9ce32dd7386ba35-Abstract-Conference.html) <br>
 [8] Yue, Y., Chen, Z., Lu, R., Zhao, A., Wang, Z., Song, S., & Huang, G. Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?. [[NeurIPS]](https://openreview.net/forum?id=4OsgYD7em5) <br>
+
+---
+
+## 7. Model Efficiency and Edge Deployment
+### 📄 Representative Papers
+[1] Lin, Ji, et al. "Awq: Activation-aware weight quantization for on-device llm compression and acceleration." Proceedings of machine learning and systems 6 (2024): 87-100. [[MLSys](https://proceedings.mlsys.org/paper_files/paper/2024/hash/42a452cbafa9dd64e9ba4aa95cc1ef21-Abstract-Conference.html) <br>
+[2] Men, Xin, et al. "Shortgpt: Layers in large language models are more redundant than you expect." Findings of the Association for Computational Linguistics: ACL 2025. 2025. [[ACL Anthology]](https://aclanthology.org/2025.findings-acl.1035/) <br>
+[3] Vincenti, Jort, et al. "Dynamic vocabulary pruning in early-exit llms." arXiv preprint arXiv:2410.18952 (2024). [[arXiv]](https://arxiv.org/abs/2410.18952) <br>
+[4] Xin, Meng, et al. "Quantization-Aware Distillation for NVFP4 Inference Accuracy Recovery." arXiv preprint arXiv:2601.20088 (2026). [[arXiv]](https://arxiv.org/abs/2601.20088) <br>
+[5] Li, Yuhang, and Priyadarshini Panda. "Tesseraq: Ultra low-bit llm post-training quantization with block reconstruction." arXiv preprint arXiv:2410.19103 (2024). [[arXiv]](https://arxiv.org/abs/2410.19103) <br>
+[6] Dettmers, Tim, et al. "Qlora: Efficient finetuning of quantized llms." Advances in neural information processing systems 36 (2023): 10088-10115. [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract-Conference.html) <br>
