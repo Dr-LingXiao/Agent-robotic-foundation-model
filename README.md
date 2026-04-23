@@ -93,6 +93,7 @@
 [14] Sasabuchi, K., Wake, N., Kanehira, A., Takamatsu, J., & Ikeuchi, K. (2025). *Agreeing to interact in human-robot interaction using large language models and vision language models.* [[arXiv]](https://arxiv.org/abs/2503.15491)   <br>
 [15] Moorman, N., Zhao, M., Luebbers, M. B., Van Waveren, S., Simmons, R., Admoni, H., ... & Gombolay, M. (2025). *Bi-Directional Mental Model Reconciliation for Human-Robot Interaction with Large Language Models.* [[arXiv]](https://arxiv.org/abs/2503.07547)  <br>
 [16] Lai, Y., Yuan, S., Nassar, Y., Fan, M., Gopal, A., Yorita, A., ... & Rätsch, M. (2025). *NMM-HRI: Natural Multi-modal Human-Robot Interaction with Voice and Deictic Posture via Large Language Model.* [[arXiv]](https://ui.adsabs.harvard.edu/abs/2025arXiv250100785L/abstract)
+[17] Debasmita, G., Oz, G., Marynel, V., & Brian, S. (2026, March). *Open-Ended Goal Inference through Actions and Language for Human-Robot Collaboration* [[HRI]](https://ieeexplore.ieee.org/abstract/document/10974215)   <br>
   
 ---
 
