@@ -127,7 +127,7 @@
 [4] Gao, G., Chang, J. D., Cardie, C., Brantley, K., & Joachims, T. (2023). *Policy-Gradient Training of Language Models for Ranking.* [[arXiv]](https://arxiv.org/abs/2310.04407)<br>
 [5] Yu, X., Zhang, S., Song, X., Qin, X., & Jiang, S. (2024). *Trajectory Diffusion for ObjectGoal Navigation.* [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/file/c72861451d6fa9dfa64831102b9bb71a-Paper-Conference.pdf)<br>
 [6] Zhuang, S., Ma, X., Koopman, B., Lin, J., & Zuccon, G. (2025). *Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning.* [[arXiv]](https://arxiv.org/abs/2503.06034)<br>
-[7] Hu, X., Yu, S., Liu, Z., Liu, Z., Xiong, C., & Yu, G. (2022). *P3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning.*[[SIGIR]](https://arxiv.org/abs/2503.06034)<br>
+[7] Hu, X., Yu, S., Liu, Z., Liu, Z., Xiong, C., & Yu, G. (2022). *P3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning.*[[SIGIR]](https://dl.acm.org/doi/epdf/10.1145/3477495.3531786)<br>
 [8] Hu, S., Shen, L., Zhang, Y., & Tao, D. (2023). *Prompt-Tuning Decision Transformer with Preference Ranking.*[[arXiv]](https://arxiv.org/pdf/2305.09648)<br>
 
 ---
