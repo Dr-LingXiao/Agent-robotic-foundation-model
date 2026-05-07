@@ -129,7 +129,8 @@
 [6] Zhuang, S., Ma, X., Koopman, B., Lin, J., & Zuccon, G. (2025). *Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning.* [[arXiv]](https://arxiv.org/abs/2503.06034)<br>
 [7] Hu, X., Yu, S., Liu, Z., Liu, Z., Xiong, C., & Yu, G. (2022). *P3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning.*[[SIGIR]](https://dl.acm.org/doi/epdf/10.1145/3477495.3531786)<br>
 [8] Hu, S., Shen, L., Zhang, Y., & Tao, D. (2023). *Prompt-Tuning Decision Transformer with Preference Ranking.*[[arXiv]](https://arxiv.org/pdf/2305.09648)<br>
-
+[9] Kwok, J., Agia, C., Sinha, R., Foutter, M., Li, S., Stoica, I., Mirhoseini, A., & Pavone, M. (2025). RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models.[arXiv](https://arxiv.org/abs/2506.17811)<br>
+[10] Jang, S., Kim, D., Kim, C., Kim, Y., & Shin, J. (2025). Verifier-Free Test-Time Sampling for Vision Language Action Models.[arXiv](https://arxiv.org/abs/2510.05681)<br>
 ---
 
 ## 6. On-policy Distillation and Reinforcement Learning
