@@ -145,6 +145,8 @@
 [6] Sang, H., Xu, Y., Zhou, Z., He, R., Wang, Z., & Sun, J. (2026). On-policy self-distillation for reasoning compression. [[arXiv]](https://arxiv.org/abs/2603.05433) <br>
 [7] Ma, H., Hu, T., Pu, Z., Liu, B., Ai, X., Liang, Y., & Chen, M. (2024). Coevolving with the other you: Fine-tuning llm with sequential cooperative multi-agent reinforcement learning.[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1c2b1c8f7d317719a9ce32dd7386ba35-Abstract-Conference.html) <br>
 [8] Yue, Y., Chen, Z., Lu, R., Zhao, A., Wang, Z., Song, S., & Huang, G. Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?. [[NeurIPS]](https://openreview.net/forum?id=4OsgYD7em5) <br>
+[9] Yang, C., Qin, C., Si, Q., Chen, M., Gu, N., Yao, D., ... & Duan, N. (2026). Self-distilled rlvr. [[arXiv]](https://arxiv.org/abs/2604.03128) <br>
+[10] Agarwal, R., Vieillard, N., Zhou, Y., Stanczyk, P., Ramos Garea, S., Geist, M., & Bachem, O. (2024, May). On-policy distillation of language models: Learning from self-generated mistakes. [[ICLR]](https://proceedings.iclr.cc/paper_files/paper/2024/hash/5be69a584901a26c521c2b51e40a4c20-Abstract-Conference.html) <br>
 
 ---
 
