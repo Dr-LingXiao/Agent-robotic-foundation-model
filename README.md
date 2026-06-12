@@ -131,6 +131,14 @@
 [8] Hu, S., Shen, L., Zhang, Y., & Tao, D. (2023). *Prompt-Tuning Decision Transformer with Preference Ranking.*[[arXiv]](https://arxiv.org/pdf/2305.09648)<br>
 [9] Kwok, J., Agia, C., Sinha, R., Foutter, M., Li, S., Stoica, I., Mirhoseini, A., & Pavone, M. (2025). *RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models.*[[arXiv]](https://arxiv.org/abs/2506.17811)<br>
 [10] Jang, S., Kim, D., Kim, C., Kim, Y., & Shin, J. (2025). *Verifier-Free Test-Time Sampling for Vision Language Action Models.*[[arXiv]](https://arxiv.org/abs/2510.05681)<br>
+[11] Sun, W., et al. (2023). Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents.[[EMNLP]](https://aclanthology.org/2023.emnlp-main.923/)<br>
+[12] Feng, T., et al. (2025). R1-Ranker: Teaching LLM Rankers to Reason.[[arXiv]](https://arxiv.org/abs/2506.21638)<br>
+[13] Liu, Q., Wang, B., Wang, N., & Mao, J. (2025). Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models.[[WWW]](https://dl.acm.org/doi/10.1145/3696410.3714554?utm_source=chatgpt.com)<br>
+[14] Ma, X., Wang, L., Yang, N., Wei, F., & Lin, J. (2024). Fine-Tuning LLaMA for Multi-Stage Text Retrieval.[[SIGIR]](https://dl.acm.org/doi/10.1145/3626772.3657951?utm_source=chatgpt.com)<br>
+[15] Sharifymoghaddam, S., Pradeep, R., Slavescu, A., Nguyen, R., Xu, A., Chen, Z., Zhang, Y., Chen, Y., Xian, J., & Lin, J. (2025). RankLLM: A Python Package for Reranking with LLMs.[[SIGIR]](https://dl.acm.org/doi/10.1145/3726302.3730331?utm_source=chatgpt.com)<br>
+[16] Pradeep, R., Sharifymoghaddam, S., & Lin, J. (2023). RankZephyr: Effective and Robust Zero-Shot Listwise Reranking Is a Breeze. [[arxiv]](https://arxiv.org/abs/2312.02724?utm_source=chatgpt.com)<br>
+[17] Ma, X., Gong, Y., He, P., Zhao, H., & Duan, N. (2023). Zero-Shot Listwise Document Reranking with a Large Language Model.[arXiv](Zero-Shot Listwise Document Reranking with a Large Language Model)<br>
+[18] Qin, Z., Jagerman, R., Hui, K., Zhuang, H., Wu, J., Yan, L., Shen, J., Liu, T., Liu, J., Metzler, D., & Wang, X. (2024). Large Language Models Are Effective Text Rankers with Pairwise Ranking Prompting.[NAACL Findings](https://aclanthology.org/2024.findings-naacl.97/)<br>
 
 ---
 
