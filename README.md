@@ -139,6 +139,7 @@
 [16] Pradeep, R., Sharifymoghaddam, S., & Lin, J. (2023). RankZephyr: Effective and Robust Zero-Shot Listwise Reranking Is a Breeze. [[arxiv]](https://arxiv.org/abs/2312.02724?utm_source=chatgpt.com)<br>
 [17] Ma, X., Gong, Y., He, P., Zhao, H., & Duan, N. (2023). Zero-Shot Listwise Document Reranking with a Large Language Model.[arXiv](Zero-Shot Listwise Document Reranking with a Large Language Model)<br>
 [18] Qin, Z., Jagerman, R., Hui, K., Zhuang, H., Wu, J., Yan, L., Shen, J., Liu, T., Liu, J., Metzler, D., & Wang, X. (2024). Large Language Models Are Effective Text Rankers with Pairwise Ranking Prompting.[[NAACL Findings]](https://aclanthology.org/2024.findings-naacl.97/)<br>
+[19] Luo, J., Chen, X., He, B., & Sun, L. (2024). PRP-Graph: Pairwise Ranking Prompting to LLMs with Graph Aggregation for Effective Text Re-ranking.[[ACL]](https://aclanthology.org/2024.acl-long.313.pdf)<br>
 
 ---
 
